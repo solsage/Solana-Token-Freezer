@@ -24,7 +24,7 @@ This project includes scripts designed to manage and freeze token accounts on th
 
 ## Contact
 
-For detailed setup instructions, troubleshooting, or further information, please contact us on Telegram: [https://t.me/mooooh42](https://t.me/mooooh42).
+For detailed setup instructions, troubleshooting, or further information, please contact us on Telegram: [@Krypto_Hans on Telegram](https://t.me/Krypto_Hans).
 
 ---
 
